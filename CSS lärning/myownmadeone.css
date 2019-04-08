@@ -1,0 +1,9 @@
+.titeln  {color :red; text-align: center; background-color: yellowgreen;}
+html {background-color: darkblue;}
+
+p,
+h2,
+h3,
+h4,
+h5,
+h6 {color: greenyellow; font-weight: bold; opacity: 0.9; font-size: 40px; font-family:Helvetica; }
